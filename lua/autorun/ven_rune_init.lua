@@ -393,8 +393,8 @@ VEN_RUNE_SYSTEM.venranks = {
 
 
 function VEN_RUNE_SYSTEM.GetRank(xp)
-    local rank = RUNE_SYSTEM.venranks[1]
-    for _, r in ipairs(RUNE_SYSTEM.venranks) do
+    local rank = VEN_RUNE_SYSTEM.venranks[1]
+    for _, r in ipairs(VEN_RUNE_SYSTEM.venranks) do
         if xp >= r.minXP then rank = r end
     end
     return rank 
