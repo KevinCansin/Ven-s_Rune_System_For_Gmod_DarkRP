@@ -1,5 +1,0 @@
-To do list
-1- Write "ven_rune_server_ext.lua"
-2- Write entity files
-3- Write a manual for addon
-4- Publish on workshop
