@@ -7,13 +7,13 @@
 Sources = Ores, Cursed Boxes and Fishing
 
 How To Harvest =
-    For Ores and Cursed Boxes   ----> Walk up to node and pres **E**
-    For Fishing                 ----> Fish menu and cast
+    - For Ores and Cursed Boxes   ----> Walk up to node and pres **E**
+    - For Fishing                 ----> Fish menu and cast
 
 What you get from them = 
-    Ores =  Quartz, Obsidian Shard, Runed Marble, Soul Stone
-    Cursed Boxes = Cursed Bronze, Nightmare Stone, Midnight Oil
-    Fishing = Ancient Ink, Moonlight Esssences, Liquid Mana, Shadow Residue, Stardust
+    - Ores =  Quartz, Obsidian Shard, Runed Marble, Soul Stone
+    - Cursed Boxes = Cursed Bronze, Nightmare Stone, Midnight Oil
+    - Fishing = Ancient Ink, Moonlight Esssences, Liquid Mana, Shadow Residue, Stardust
 
 
 
